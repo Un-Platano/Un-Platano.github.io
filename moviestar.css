@@ -1,0 +1,272 @@
+body{
+    background: url(img/Fondo11.jpg);
+   }
+
+a:hover{
+    color: rgb(44, 93, 230);
+    }
+
+#general{
+    width: 1024px;
+    height: 900px;
+    background-color: orange;
+    margin: 20px auto;
+    }
+
+#capsalera{
+    width: 1024px;
+    height: 900px;
+    background-color: white;
+    margin-bottom: 20px;
+    float: none;
+    }
+
+#barra {
+    display:flex;
+    height: 50px;
+    background-color: #C71585;
+    padding-left: 40px;
+    padding-right: 15px;
+    float: none;
+    }
+
+#infobarra{
+    --background-color:black;
+    width: 1000px;
+    height: 60px;
+    margin-top: -11px;
+    margin-bottom: 20px;
+    }
+
+#fotomov{
+    background: url("img/logo.jpg");
+    float: right;
+    width: 205px;
+    height: 51px;
+    margin-top: 11px;
+
+    }
+
+.tecla{
+    padding: 5px 50px 0px 5px;
+    color: white;
+}
+#titulo1{
+    width: 550px;
+    height: 50px;
+    --background-color: orange;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-style:italic;
+}
+#subtitulo1{
+    width: 550px;
+    height: 35px;
+    --background-color: red;
+    float: left;
+    margin-top: -2px;
+    margin-left: 10px;
+    font-style:italic;
+}
+#borde1 {
+    width: 995px;
+    height: 9px;
+    background-color:#C71585;
+    float: left;
+    margin-left: 10px;
+}
+
+#titulo2{
+    width: 550px;
+    height: 45px;
+    --background-color: yellow;
+    float: left;
+    margin-top: 20px;
+    margin-left: 16px;
+    margin-bottom: -5px;
+    font-style:cursive;
+}
+
+#subtitulo2{
+    width: 700px;
+    height: 16px;
+    --background-color:burlywood;
+    float: left;
+    margin-top: -13px;
+    margin-left: 20px;
+    margin-bottom: -10px;
+    --font-style:italic;
+}
+
+#subtitulo3{
+    width: 550px;
+    height: 45px;
+    --background:pink;
+    float: left;
+    margin-top: 85px;
+    margin-left: 20px;
+}
+
+#fotogrande {
+    background: url("img/Musica.jpg");
+    width: 400px;
+    height: 330px;
+    float: right;
+    margin-top: -50px;
+}
+
+#ultimotitulo{
+    width: 550px;
+    height: 50px;
+    --background-color: orange;
+    float: left;
+    margin-top: 160px;
+    margin-left: 20px;
+    font-style:italic;
+}
+
+#borde2 {
+    width: 1000px;
+    height: 9px;
+    background-color:#C71585;
+    float: left;
+    margin-top: 18px;
+    margin-left: 10px
+    
+}
+
+#cubogeneral{
+    float: left;
+    width: 975px;
+    height: 165px;
+    --background-color: blueviolet;
+    margin-top: -215px;
+    margin-left: 7px;
+}
+
+#cubo1{
+    float: left;
+    width: 319px;
+    height: 200px;
+    border: #FFDAB9 2px solid;
+    --background-color: orange;
+    margin-top: -75px;
+    margin-left: 2px;
+}
+
+#cubo2{
+    float: left;
+    width: 319px;
+    height: 200px;
+    border: #FFDAB9 2px solid;
+    --background-color: red;
+    margin-top: -150px;
+    margin-left: 340px;
+}
+
+#cubo3{
+    float: left;
+    width: 319px;
+    height: 200px;
+    border: #FFDAB9 2px solid;
+    --background-color: greenyellow;
+    margin-top: -206px;
+    margin-left: 680px;
+}
+
+#foto1{
+    background: url("img/blackberry-curve-9320.jpg");
+    float: left;
+    width: 100px;
+    height: 125px;
+    margin-top: 25px;
+}
+
+#foto1 h2{
+    font-size: 25px;
+	line-height: 35px;
+    float: left;
+    width: 200px;
+    height: 60px;
+    margin-left: 120px;
+    margin-top: -2px;
+}
+
+#foto2{
+    background: url("img/samsung-galaxy-mini.jpg");
+    float: left;
+    width: 95px;
+    height: 125px;
+    margin-top: 25px;
+}
+
+#foto2 h2{
+    font-size: 25px;
+	line-height: 35px;
+    float: left;
+    width: 200px;
+    height: 60px;
+    margin-left: 120px;
+    margin-top: -2px;
+}
+
+#foto3{
+    background: url("img/iphone-5.jpg");
+    float: left;
+    width: 95px;
+    height: 125px;
+    margin-top: 25px;
+}
+
+#foto3 h2{
+    font-size: 25px;
+	line-height: 35px;
+    float: left;
+    width: 200px;
+    height: 60px;
+    margin-left: 120px;
+    margin-top: -2px;
+}
+
+
+h1{
+    color: #8718d1     
+}
+
+h2{
+    color: #8718d1   
+ 
+}
+
+h3{     
+    margin-top: -6px;
+    margin-left: 15px;
+    height: 3px;
+    margin-bottom: 23px; 
+    color: #8718d1      
+}    
+
+h4{
+    width: 100px;
+    height: 10px;
+    margin-left: 120px;
+    float: left;
+    margin-top: -17px;
+    color: #8718d1;
+   
+
+}    
+    
+
+
+
+
+
+
+
+
+
+
+
+
